@@ -12,7 +12,7 @@ import javax.crypto.Cipher;
 import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESKeySpec;
-
+//在线运行java: https://www.jyshare.com/compile/10/
 public class FinalShellDecodePass {
     public static void main(String[] args)throws Exception {
         System.out.println(decodePass("eU15IxpjG1qmvvgmJGZFh9O5AIo0lHQgqHxJ6Hs2y4w="));
